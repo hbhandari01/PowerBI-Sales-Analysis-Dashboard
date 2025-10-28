@@ -8,20 +8,14 @@ I enjoy transforming raw data into meaningful insights that drive smarter busine
 
 ---
 
-## 🎥 Dashboard Demo
-📽️ **[Click here to view the interactive dashboard video](./Power_Bi_Interactive_Dashboard%202025-09-30%2021-01-42.mp4)**  
-
-*(Download or open the video file to explore the interactive features.)*
-
----
 
 ## 🧠 Project Overview
 The **Sales Analysis Dashboard** helps analyze and visualize key sales trends, enabling data-driven business strategies.  
 
 ### 🔍 Features:
-- Interactive filters for region, product, and time period  
-- KPIs highlighting total sales, profit margin, and product performance  
-- Visual trends of sales growth over time  
+- Interactive filters for region, product, and time period.  
+- KPIs highlighting total sales, total quantity, transactions and average unit price. 
+- Visual trends of sales by city.
 - Dynamic comparison across regions and categories  
 
 ---
@@ -37,7 +31,7 @@ The **Sales Analysis Dashboard** helps analyze and visualize key sales trends, e
 ## 📈 Key Insights
 - Identifies top-performing products and sales regions  
 - Tracks month-over-month and yearly sales growth  
-- Provides clear visibility into profit margins  
+- Provides clear visibility into customer ratings.  
 - Supports better business planning through visual analytics  
 
 ---
