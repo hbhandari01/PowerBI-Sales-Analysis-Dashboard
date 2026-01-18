@@ -2,15 +2,9 @@
 
 ---
 
-## 🧑‍💼 About Me
-I’m **Himanshu Bhandari**, a Data Analyst skilled in **Power BI, SQL, Python, Tableau, and Machine Learning**.  
-I enjoy transforming raw data into meaningful insights that drive smarter business decisions.
-
----
-
 
 ## 🧠 Project Overview
-The **Sales Analysis Dashboard** helps analyze and visualize key sales trends, enabling data-driven business strategies.  
+The **Sales Analysis Dashboard** helps analyze and visualize the key sales trends, enabling data-driven business strategies.  
 
 ### 🔍 Features:
 - Interactive filters for region, product, and time period.  
@@ -44,5 +38,5 @@ If you’d like to connect or collaborate on data analytics or Power BI projects
 
 ---
 
-⭐ *Feel free to fork this repository or connect with me for collaboration on Power BI and Data Analytics projects!*
+*Feel free to connect with me for collaboration on Power BI and Data Analytics projects!*
 
