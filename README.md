@@ -23,10 +23,10 @@ The **Sales Analysis Dashboard** helps analyze and visualize the key sales trend
 ---
 
 ## 📈 Key Insights
-- Identifies top-performing products and sales regions  
+- Identifies top-performing products and sales regions 
 - Tracks month-over-month and yearly sales growth  
 - Provides clear visibility into customer ratings.  
-- Supports better business planning through visual analytics  
+- Supports better data driven business planning through visual analytics  
 
 ---
 
