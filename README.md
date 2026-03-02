@@ -4,7 +4,7 @@
 
 
 ## 🧠 Project Overview
-The **Sales Analysis Dashboard** helps analyze and visualize the key sales trends, enabling data-driven business strategies.  
+The **Power BI Sales Analysis Dashboard** helps analyze and visualize the key sales trends, enabling data-driven business strategies.  
 
 ### 🔍 Features:
 - Interactive filters for region, product, and time period.  
