@@ -1,10 +1,8 @@
 # 📊 Power BI Sales Analysis Dashboard
 
----
-
 
 ## 🧠 Project Overview
-The **Power BI Dashboard** helps analyze and visualize the key sales trends, enabling data-driven business strategies.  
+This **Power BI Dashboard** helps analyze and visualize the key sales trends, enabling data-driven business strategies.  
 
 ### 🔍 Features:
 - Interactive filters for region, product, and time period.  
@@ -14,7 +12,7 @@ The **Power BI Dashboard** helps analyze and visualize the key sales trends, ena
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used:
 - **Power BI** – for dashboard creation and interactivity  
 - **Excel/CSV Dataset** – as the primary data source  
 - **Data Modeling & DAX** – for calculated metrics and measures  
@@ -22,7 +20,7 @@ The **Power BI Dashboard** helps analyze and visualize the key sales trends, ena
 
 ---
 
-## 📈 Key Insights
+## 📈 Key Insights:
 - Identifies top-performing products and sales regions 
 - Tracks month-over-month and yearly sales growth  
 - Provides clear visibility into customer ratings.  
@@ -30,7 +28,7 @@ The **Power BI Dashboard** helps analyze and visualize the key sales trends, ena
 
 ---
 
-## 📬 Contact
+## 📬 Contact:
 If you’d like to connect or collaborate on data analytics or Power BI projects:  
 - 💼 **LinkedIn:** [linkedin.com/in/himanshubhandari18](https://www.linkedin.com/in/himanshubhandari18)  
 - 🐙 **GitHub:** [github.com/hbhandari01](https://github.com/hbhandari01)  
