@@ -35,5 +35,6 @@ If you’d like to connect or collaborate on data analytics or Power BI projects
 - 📧 **Email:** hbhandari01@gmail.com  
 
 ---
+## Author
 
 Himanshu Bhandari | Data Analyst
