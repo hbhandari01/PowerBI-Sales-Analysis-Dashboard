@@ -37,4 +37,4 @@ If you’d like to connect or collaborate on data analytics or Power BI projects
 ---
 ## Author
 
-Himanshu Bhandari | Data Analyst
+Himanshu Bhandari | Data Analyst Professional
